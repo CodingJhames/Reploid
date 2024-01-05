@@ -1,0 +1,25 @@
+
+# Directorios y archivos generados por Node.js
+node_modules/
+
+# Archivos de dependencias generados por yarn o npm
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Dependencias específicas del sistema (si las tienes)
+# Por ejemplo, si estás en macOS:
+.DS_Store
+# O si estás en Windows:
+Thumbs.db
+
+# Directorio de construcción de Vite
+dist/
+
+# Configuraciones locales
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cualquier otro archivo o directorio específico para tu proyecto que no quieras versionar
